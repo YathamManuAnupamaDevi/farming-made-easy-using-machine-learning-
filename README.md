@@ -28,6 +28,11 @@ This project is a Machine Learning-based web application that helps farmers by p
 - Frontend: HTML, CSS
 - Database: MYSQL
 
+ -Install required libraries:
+
+pip install --upgrade pip
+pip install numpy pandas matplotlib scikit-learn opencv-python django
+
 ## How to Run
 1. Install required libraries
 2. Run the Python file
